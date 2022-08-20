@@ -1,0 +1,15 @@
+G:\Drive'ım\patika\CSharp\WhileveForEach\bin\Debug\net6.0\WhileveForEach.exe
+G:\Drive'ım\patika\CSharp\WhileveForEach\bin\Debug\net6.0\WhileveForEach.deps.json
+G:\Drive'ım\patika\CSharp\WhileveForEach\bin\Debug\net6.0\WhileveForEach.runtimeconfig.json
+G:\Drive'ım\patika\CSharp\WhileveForEach\bin\Debug\net6.0\WhileveForEach.dll
+G:\Drive'ım\patika\CSharp\WhileveForEach\bin\Debug\net6.0\WhileveForEach.pdb
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.csproj.AssemblyReference.cache
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.AssemblyInfoInputs.cache
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.AssemblyInfo.cs
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.csproj.CoreCompileInputs.cache
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.dll
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\refint\WhileveForEach.dll
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.pdb
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\WhileveForEach.genruntimeconfig.cache
+G:\Drive'ım\patika\CSharp\WhileveForEach\obj\Debug\net6.0\ref\WhileveForEach.dll
